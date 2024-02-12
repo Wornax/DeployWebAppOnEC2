@@ -51,6 +51,10 @@ sudo chkconfig httpd on
 
 Com estes passos, você realizou com sucesso o deploy de uma aplicação web estática na AWS EC2 utilizando o servidor web Apache
 
+![image](https://github.com/Wornax/DeployWebAppOnEC2/assets/105296448/ad2e5506-c1ba-436a-a25f-e7c2e26ca78d)
+
+![image](https://github.com/Wornax/DeployWebAppOnEC2/assets/105296448/b37068fd-37f6-4c69-9e21-e25060ee4f15)
+
 
 
 
